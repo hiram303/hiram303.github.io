@@ -78,7 +78,7 @@ ga_domain: hiram303.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Better to Better<br>音乐总有结束的时候，但不是每个人都有尾声。"
+sidebar-about-description: "Better to Better<br>音乐总有结束的时候，但不是每份代码都有输出。"
 sidebar-avatar: /img/hiram.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
